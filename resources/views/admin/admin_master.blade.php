@@ -126,15 +126,15 @@
                 <!-- User Account -->
                   <li class="dropdown user-menu">
                     <button href="#" class="dropdown-toggle nav-link" data-toggle="dropdown">
-                      <img src="{{asset('backend/assets/img/user/user.png')}}" class="user-image" alt="User Image" />
+                      <img src="{{asset('storage/profile-photos/uaRkuufD03p8Z5JMTEjV7BxiSxnRRsoa0Aewg21f.jpg')}}" class="user-image" alt="User Image" />
                       <span class="d-none d-lg-inline-block">{{Auth::user()->name}}</span>
                     </button>
                     <ul class="dropdown-menu dropdown-menu-right">
                       <!-- User image -->
                       <li class="dropdown-header">
-                        <img src="{{asset('backend/assets/img/user/user.png')}}" class="img-circle" alt="User Image" />
+                        <img src="{{asset('storage/profile-photos/uaRkuufD03p8Z5JMTEjV7BxiSxnRRsoa0Aewg21f.jpg')}}" class="img-circle" alt="User Image" />
                         <div class="d-inline-block">
-                          Abdus Salam <small class="pt-1">abdus@gmail.com</small>
+                          Vawana kc <small class="pt-1">bkc@gmail.com</small>
                         </div>
                       </li>
 
